@@ -6,7 +6,7 @@
 
 /*************      Login Page   *****************/
 body{
-    background: url(images/physicianLoginScreen.png) no-repeat;
+    background: url(../images/physicianLoginScreen.png) no-repeat;
     background-size: cover;
     align-items: center;
     justify-content: center;
