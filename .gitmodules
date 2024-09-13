@@ -1,0 +1,6 @@
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = git@github.com:gabrimaro/FullMotion-front-end.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = git@github.com:gabrimaro/FullMotion-back-end.git
